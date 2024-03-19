@@ -8,7 +8,7 @@ Enjoy exploring the demo!
 
 ## Installation
 
-Clone the project from Github:
+Clone the project from GitHub:
 
 ```bash
 git clone https://github.com/tzurp/pytest_performancetotal_demo.git
