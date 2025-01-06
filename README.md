@@ -20,6 +20,12 @@ To set up the test environment and install all dependencies, run:
 pip install -r requirements.txt
 ```
 
+Then install Playwright browsers:
+
+```
+playwright install
+```
+
 ## Running the test
 
 To start the test, run:
